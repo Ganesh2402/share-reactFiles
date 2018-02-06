@@ -1,0 +1,4 @@
+#Sun Feb 04 21:07:26 IST 2018
+base.0=E\:\\react\\Projects\\HelloReactNative-v0.1.0\\package\\android\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=E\:\\react\\Projects\\HelloReactNative-v0.1.0\\package\\android\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main\\classes.dex
